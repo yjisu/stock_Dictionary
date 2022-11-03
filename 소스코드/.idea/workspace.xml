@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0303638-0fd2-416a-ba15-34825add524a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ 2021-5-8  21시 33분 12초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ 2021-5-8  21시 37분 30초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ 2021-5-8  21시 6분 9초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ 2021-5-8  22시 48분 54초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ 2021-5-9  10시 55분 12초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ 2021-5-9  12시 15분 22초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/knu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KnuSentiLex/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mecab_python-0.996_ko_0.9.2_msvc-cp37-cp37m-win_amd64.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/MeCab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/_MeCab.cp37-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/libmecab.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/mecab_python-0.996_ko_0.9.2_msvc.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/mecab_python-0.996_ko_0.9.2_msvc.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/mecab_python-0.996_ko_0.9.2_msvc.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/mecab_python-0.996_ko_0.9.2_msvc.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/mecab_python-0.996_ko_0.9.2_msvc.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/mecab_python-0.996_ko_0.9.2_msvc.dist-info/direct_url.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../venv/Lib/site-packages/mecab_python-0.996_ko_0.9.2_msvc.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/코스피/코스피10월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/코스피/코스피11월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/코스피/코스피12월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/2021-4-14  15시 32분 35초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/2021-4-14  15시 40분 14초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/2021-4-14  15시 47분 35초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/2021-4-14  16시 13분 52초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/2021-4-14  16시 21분 37초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/2021-4-14  16시 32분 13초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/대한항공10월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/대한항공11월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/대한항공12월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/대한항공1월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/대한항공2월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/항공사/대한항공/대한항공3월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/해운사/hmm/hmm10월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/해운사/hmm/hmm11월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/해운사/hmm/hmm12월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/해운사/hmm/hmm1월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/해운사/hmm/hmm2월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/해운사/hmm/hmm3월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/2021-4-16  10시 32분 58초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/2021-4-16  10시 39분 27초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/2021-4-16  10시 48분 36초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/2021-4-16  10시 56분 54초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/2021-4-16  10시 7분 43초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/2021-4-16  11시 3분 9초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/2021-4-16  11시 9분 40초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/2021-4-16  9시 45분 49초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/2021-4-16  9시 53분 0초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/2021-4-16  9시 58분 44초 merging.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/금호석유10월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/금호석유11월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/금호석유12월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/금호석유1월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/금호석유2월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/금호석유/금호석유3월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/롯데케미칼/롯데케미칼10월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/롯데케미칼/롯데케미칼11월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/롯데케미칼/롯데케미칼12월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/롯데케미칼/롯데케미칼1월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/롯데케미칼/롯데케미칼2월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스크롤링/화학/롯데케미칼/롯데케미칼3월.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/고려아연/고려아연10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/고려아연/고려아연11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/고려아연/고려아연12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/고려아연/고려아연1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/고려아연/고려아연2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/고려아연/고려아연3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/금호석유/금호석유10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/금호석유/금호석유11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/금호석유/금호석유12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/금호석유/금호석유1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/금호석유/금호석유2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/금호석유/금호석유3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/기업은행/기업은행10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/기업은행/기업은행11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/기업은행/기업은행12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/기업은행/기업은행1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/기업은행/기업은행2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/기업은행/기업은행3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/대한항공/대한항공10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/대한항공/대한항공11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/대한항공/대한항공12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/대한항공/대한항공1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/대한항공/대한항공2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/대한항공/대한항공3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/롯데케미칼/롯데케미칼10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/롯데케미칼/롯데케미칼11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/롯데케미칼/롯데케미칼12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/롯데케미칼/롯데케미칼1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/롯데케미칼/롯데케미칼2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/롯데케미칼/롯데케미칼3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/미래에셋증권/미래에셋증권10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/미래에셋증권/미래에셋증권11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/미래에셋증권/미래에셋증권12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/미래에셋증권/미래에셋증권1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/미래에셋증권/미래에셋증권2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/미래에셋증권/미래에셋증권3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성SDS/삼성SDS10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성SDS/삼성SDS11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성SDS/삼성SDS12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성SDS/삼성SDS1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성SDS/삼성SDS2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성SDS/삼성SDS3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성생명/삼성생명10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성생명/삼성생명11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성생명/삼성생명12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성생명/삼성생명1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성생명/삼성생명2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성생명/삼성생명3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성전기/삼성전기10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성전기/삼성전기11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성전기/삼성전기12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성전기/삼성전기1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성전기/삼성전기2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성전기/삼성전기3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성화재/삼성화재10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성화재/삼성화재11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성화재/삼성화재12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성화재/삼성화재1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성화재/삼성화재2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/삼성화재/삼성화재3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/아모레퍼시픽/아모레퍼시픽10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/아모레퍼시픽/아모레퍼시픽11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/아모레퍼시픽/아모레퍼시픽12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/아모레퍼시픽/아모레퍼시픽1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/아모레퍼시픽/아모레퍼시픽2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/아모레퍼시픽/아모레퍼시픽3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/우리금융지주/우리금융지주10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/우리금융지주/우리금융지주11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/우리금융지주/우리금융지주12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/우리금융지주/우리금융지주1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/우리금융지주/우리금융지주2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/우리금융지주/우리금융지주3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/포스코케미칼/포스코케미칼10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/포스코케미칼/포스코케미칼11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/포스코케미칼/포스코케미칼12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/포스코케미칼/포스코케미칼1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/포스코케미칼/포스코케미칼2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/포스코케미칼/포스코케미칼3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하나금융지주/하나금융지주10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하나금융지주/하나금융지주11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하나금융지주/하나금융지주12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하나금융지주/하나금융지주1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하나금융지주/하나금융지주2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하나금융지주/하나금융지주3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하이브/하이브10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하이브/하이브11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하이브/하이브12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하이브/하이브1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하이브/하이브2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/하이브/하이브3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국전력/한국전력10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국전력/한국전력11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국전력/한국전력12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국전력/한국전력1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국전력/한국전력2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국전력/한국전력3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국조선해양/한국조선해양10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국조선해양/한국조선해양11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국조선해양/한국조선해양12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국조선해양/한국조선해양1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국조선해양/한국조선해양2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한국조선해양/한국조선해양3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한온시스템/한온시스템10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한온시스템/한온시스템11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한온시스템/한온시스템12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한온시스템/한온시스템1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한온시스템/한온시스템2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한온시스템/한온시스템3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한화솔루션/한화솔루션10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한화솔루션/한화솔루션11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한화솔루션/한화솔루션12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한화솔루션/한화솔루션1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한화솔루션/한화솔루션2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/한화솔루션/한화솔루션3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대글로비스/현대글로비스10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대글로비스/현대글로비스11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대글로비스/현대글로비스12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대글로비스/현대글로비스1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대글로비스/현대글로비스2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대글로비스/현대글로비스3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대제철/현대제철10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대제철/현대제철11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대제철/현대제철12월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대제철/현대제철1월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대제철/현대제철2월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../뉴스키워드/현대제철/현대제철3월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/hmm/data_1640_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/hmm/data_1723_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/hmm/data_1758_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/hmm/data_1809_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/hmm/data_3042_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/hmm/hmm3월시세.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/kt/data_3605_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/kt/data_3618_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/kt/data_3723_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/kt/data_3743_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/kt/data_3804_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/kt/data_3846_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/lg디스플레이/data_3955_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/lg디스플레이/data_4205_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/lg디스플레이/data_4221_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/lg디스플레이/data_4237_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/lg디스플레이/data_4255_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/lg디스플레이/data_4315_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/s-oil/data_5307_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/s-oil/data_5319_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/s-oil/data_5343_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/s-oil/data_5406_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/s-oil/data_5420_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/s-oil/data_5440_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/sk바이오팜/data_4346_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/sk바이오팜/data_4402_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/sk바이오팜/data_5047_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/sk바이오팜/data_5141_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/sk바이오팜/data_5231_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/sk바이오팜/data_5246_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/고려아연/data_5614_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/고려아연/data_5624_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/고려아연/data_5637_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/고려아연/data_5649_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/고려아연/data_5705_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/고려아연/data_5716_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/금호석유/data_0008_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/금호석유/data_5741_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/금호석유/data_5753_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/금호석유/data_5807_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/금호석유/data_5845_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/금호석유/data_5958_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/기업은행/data_0030_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/기업은행/data_0040_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/기업은행/data_0049_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/기업은행/data_0106_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/기업은행/data_0115_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/기업은행/data_0138_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/대한항공/data_1126_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/대한항공/data_1136_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/대한항공/data_1146_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/대한항공/data_1209_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/대한항공/data_1219_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/대한항공/data_1230_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/롯데케미칼/data_1250_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/롯데케미칼/data_1306_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/롯데케미칼/data_1317_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/롯데케미칼/data_1327_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/롯데케미칼/data_1356_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/롯데케미칼/data_1405_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/미래에셋증권/data_1430_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/미래에셋증권/data_1439_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/미래에셋증권/data_1448_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/미래에셋증권/data_1457_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/미래에셋증권/data_1507_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/미래에셋증권/data_1515_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성SDS/data_1805_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성SDS/data_1815_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성SDS/data_1928_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성SDS/data_2225_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성SDS/data_2234_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성SDS/data_2243_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성생명/data_2306_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성생명/data_2318_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성생명/data_2327_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성생명/data_2336_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성생명/data_2345_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성생명/data_2356_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성전기/data_2422_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성전기/data_2431_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성전기/data_2439_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성전기/data_2449_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성전기/data_2459_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성전기/data_2509_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성화재/data_2541_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성화재/data_2550_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성화재/data_2853_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성화재/data_2908_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성화재/data_3029_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/삼성화재/data_3039_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/아모레퍼시픽/data_3154_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/아모레퍼시픽/data_3204_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/아모레퍼시픽/data_3220_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/아모레퍼시픽/data_3230_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/아모레퍼시픽/data_3240_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/아모레퍼시픽/data_3249_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/우리금융지주/data_3328_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/우리금융지주/data_3907_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/우리금융지주/data_3916_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/우리금융지주/data_3924_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/우리금융지주/data_3931_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/우리금융지주/data_3942_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/포스코케미칼/data_4004_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/포스코케미칼/data_4014_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/포스코케미칼/data_4023_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/포스코케미칼/data_4031_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/포스코케미칼/data_4040_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/포스코케미칼/data_4049_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하나금융지주/data_4106_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하나금융지주/data_4117_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하나금융지주/data_4127_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하나금융지주/data_4137_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하나금융지주/data_4145_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하나금융지주/data_4153_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하이브/data_4212_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하이브/data_4227_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하이브/data_4257_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하이브/data_4311_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하이브/data_4321_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/하이브/data_4331_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국전력/data_4350_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국전력/data_4400_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국전력/data_4408_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국전력/data_4417_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국전력/data_4425_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국전력/data_4434_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국조선해양/data_4458_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국조선해양/data_4507_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국조선해양/data_4516_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국조선해양/data_4523_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국조선해양/data_4532_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한국조선해양/data_4555_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한온시스템/data_4614_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한온시스템/data_4623_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한온시스템/data_4639_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한온시스템/data_4649_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한온시스템/data_4658_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한온시스템/data_4708_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한화솔루션/data_5515_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한화솔루션/data_5524_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한화솔루션/data_5534_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한화솔루션/data_5543_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한화솔루션/data_5550_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/한화솔루션/data_5600_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대글로비스/data_5631_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대글로비스/data_5639_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대글로비스/data_5647_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대글로비스/data_5658_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대글로비스/data_5708_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대글로비스/data_5717_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대제철/data_5734_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대제철/data_5742_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대제철/data_5756_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대제철/data_5804_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대제철/data_5814_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../종목별시세/현대제철/data_5824_20210419.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../중간보고서.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../코스피10월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../코스피11월뉴스키워드.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../코스피12월뉴스키워드.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hmm1월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hmm1월_가중치추출.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hmm1월_명사추출.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hmm2월_명사추출.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hmm2월_명사추출_숫자제외.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../knp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../knp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/hmm/hmm10월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/hmm/hmm11월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/hmm/hmm12월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/hmm/hmm1월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/hmm/hmm2월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/hmm/hmm3월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/kt&amp;g(보류)/2021-4-15  16시 49분 6초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/kt&amp;g(보류)/2021-4-15  17시 5분 46초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/2021-4-16  10시 32분 58초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/2021-4-16  10시 39분 27초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/2021-4-16  10시 48분 36초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/2021-4-16  10시 56분 54초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/2021-4-16  10시 7분 43초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/2021-4-16  11시 3분 9초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/2021-4-16  11시 9분 40초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/2021-4-16  9시 45분 49초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/2021-4-16  9시 53분 0초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/2021-4-16  9시 58분 44초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/금호석유10월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/금호석유11월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/금호석유12월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/금호석유1월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/금호석유2월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/금호석유/금호석유3월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/2021-4-14  15시 32분 35초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/2021-4-14  15시 40분 14초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/2021-4-14  15시 47분 35초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/2021-4-14  16시 13분 52초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/2021-4-14  16시 21분 37초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/2021-4-14  16시 32분 13초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/대한항공10월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/대한항공11월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/대한항공12월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/대한항공1월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/대한항공2월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/대한항공/대한항공3월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/롯데케미칼/롯데케미칼10월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/롯데케미칼/롯데케미칼11월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/롯데케미칼/롯데케미칼12월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/롯데케미칼/롯데케미칼1월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/롯데케미칼/롯데케미칼2월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/롯데케미칼/롯데케미칼3월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/2021-4-14  17시 31분 28초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/2021-4-14  17시 49분 31초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/2021-4-14  17시 57분 40초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/2021-4-14  18시 0분 54초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/2021-4-14  18시 32분 49초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/2021-4-14  18시 48분 0초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/2021-4-14  18시 6분 26초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/2021-4-14  19시 19분 23초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/2021-4-14  19시 25분 56초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/2021-4-14  19시 3분 23초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/하이브10월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/하이브11월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/하이브12월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/하이브1월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/하이브2월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/빅히트/하이브3월.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/신한지주/2021-4-16  18시 34분 49초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/신한지주/2021-4-16  18시 50분 30초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/신한지주/2021-4-16  18시 57분 35초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/신한지주/2021-4-16  19시 12분 52초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/신한지주/2021-4-16  19시 22분 8초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/신한지주/2021-4-16  19시 30분 6초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/신한지주/2021-4-16  19시 4분 15초 merging.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../뉴스크롤링/신한지주/신한지주3월.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/KnuSentiLex" />
+  </component>
+  <component name="ProjectId" id="1sKE1vqX6hUM7q0Ohx8nPpqQpTo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pythonProject" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Python.text">
+    <configuration name="knusl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="knu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KnuSentiLex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KnuSentiLex/knusl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="knu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KnuSentiLex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KnuSentiLex/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.text" />
+        <item itemvalue="Python.knusl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0303638-0fd2-416a-ba15-34825add524a" name="Default Changelist" comment="" />
+      <created>1620612669345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620612669345</updated>
+      <workItem from="1620612670534" duration="3462000" />
+      <workItem from="1620706666898" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/knu$knusl.coverage" NAME="knusl Coverage Results" MODIFIED="1620612704306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KnuSentiLex" />
+    <SUITE FILE_PATH="coverage/knu$text.coverage" NAME="text Coverage Results" MODIFIED="1620632540486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KnuSentiLex" />
+  </component>
+</project>
